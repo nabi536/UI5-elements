@@ -6,6 +6,9 @@
     <Text id="_IDGenText" text="This is Nabi">
     
     </Text>
+    <Text id="_IDGenText1" text="This is Nabi from pedanandipadu">
+    
+    </Text>
     </content>
     </Page>
 </mvc:View>
