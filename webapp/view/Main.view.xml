@@ -1,0 +1,11 @@
+<mvc:View controllerName="com.nabi.project1.project1.controller.Main"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m">
+    <Page id="page" title="Hello World">
+    <content>
+    <Text id="_IDGenText" text="This is Nabi">
+    
+    </Text>
+    </content>
+    </Page>
+</mvc:View>
